@@ -1,0 +1,51 @@
+﻿  Game.cpp
+C:\Users\andre\Desktop\Tic Tac Toe SFML\Tic Tac Toe SFML\Global.h(8,61): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\Desktop\Tic Tac Toe SFML\Tic Tac Toe SFML\Global.h(9,35): warning C4244: 'initializing': conversion from 'const _Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  Grid.cpp
+C:\Users\andre\Desktop\Tic Tac Toe SFML\Tic Tac Toe SFML\Global.h(8,61): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\Desktop\Tic Tac Toe SFML\Tic Tac Toe SFML\Global.h(9,35): warning C4244: 'initializing': conversion from 'const _Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\andre\Desktop\Tic Tac Toe SFML\Tic Tac Toe SFML\Grid.cpp(47,68): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Tic Tac Toe SFML\Tic Tac Toe SFML\Grid.cpp(47,29): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\andre\Desktop\Tic Tac Toe SFML\Tic Tac Toe SFML\Grid.cpp(48,69): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Tic Tac Toe SFML\Tic Tac Toe SFML\Grid.cpp(48,29): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\andre\Desktop\Tic Tac Toe SFML\Tic Tac Toe SFML\Grid.cpp(64,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Tic Tac Toe SFML\Tic Tac Toe SFML\Grid.cpp(65,163): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Tic Tac Toe SFML\Tic Tac Toe SFML\Grid.cpp(66,71): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\andre\Desktop\Tic Tac Toe SFML\Tic Tac Toe SFML\Grid.cpp(67,71): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\andre\Desktop\Tic Tac Toe SFML\Tic Tac Toe SFML\Grid.cpp(75,54): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  main.cpp
+C:\Users\andre\Desktop\Tic Tac Toe SFML\Tic Tac Toe SFML\Global.h(8,61): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\Desktop\Tic Tac Toe SFML\Tic Tac Toe SFML\Global.h(9,35): warning C4244: 'initializing': conversion from 'const _Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  Player.cpp
+C:\Users\andre\Desktop\Tic Tac Toe SFML\Tic Tac Toe SFML\Global.h(8,61): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\Desktop\Tic Tac Toe SFML\Tic Tac Toe SFML\Global.h(9,35): warning C4244: 'initializing': conversion from 'const _Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\andre\Desktop\Tic Tac Toe SFML\Tic Tac Toe SFML\Player.cpp(99,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 229 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Tic Tac Toe SFML.vcxproj -> C:\Users\andre\Desktop\Tic Tac Toe SFML\x64\Release\Game.exe
